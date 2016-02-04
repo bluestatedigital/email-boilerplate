@@ -5,8 +5,7 @@ This boilerplate provides the basic template for a 600-pixel wide email design f
 along with code examples for content creators when designing mailings.
 
 The simplest way to use this is to swap out brand-specific assets such as logo image paths and font colors. When implementing a Message
-Template in the BSD Tools, you will need to define an HTML Header and HTML Footer. The chunks of code for the header and footer are defined
-here.
+Template in the BSD Tools, you will need to define an HTML Header and HTML Footer. The chunks of code for the header and footer are defined here. Take a look at the code comments to see exactly where those pieces start and end.
 
 Th `boilerplate_comments.html` document is heavily commented and provides suggestions for best practices along with explanations for email HTML oddities. When
 implenting your template for production use it is important to REMOVE ALL COMMENTS. In addition to cleaning up your code and decreasing the
