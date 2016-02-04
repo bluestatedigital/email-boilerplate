@@ -1,0 +1,16 @@
+{
+  "name": "email-boilerplate",
+  "version": "1.0.0",
+  "description": "Static boilerplate for email templates to be used on the BSD Tools.",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-strip-comments": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blue State Digital",
+  "license": "ISC"
+}
